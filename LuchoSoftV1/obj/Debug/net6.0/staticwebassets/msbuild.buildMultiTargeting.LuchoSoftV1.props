@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LuchoSoftV1.props" />
+</Project>
